@@ -1,5 +1,5 @@
 #!/bin/bash
 cd /var/www
-git add *
+git add weewx/*
 git commit -a -m "auto update bot"
 git push
