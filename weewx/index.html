@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html class="no-js">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="profile" href="http://gmpg.org/xfn/11" />
+        
+        <title>Dolores, Alicante, Spain Current Weather Conditions</title>
+        
+        <!-- Open Graph -->
+        <meta property="og:site_name" content="Dolores, Alicante, Spain Current Weather Conditions" />
+        <meta property="og:description" content="Current Weather Conditions in Dolores, Alicante, Spain - weather web site powered by weewx" />
+		<meta property="og:type" content="website" /> 
+
+        <!-- Icons -->
+        <link rel="icon" href="favicon.ico" type="image/png">
+		<link rel="apple-touch-icon" href="touch-icon.png"/>
+        
+        <!-- Styles -->
+        <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
+		<link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="css/main.css">
+        
+        <!-- Skripte -->
+        <script src="js/modernizr-2.6.2.min.js"></script>
+ 
+        <script type="text/javascript">
+            function openNoaaFile(date)
+            {
+                var url = "NOAA/NOAA-";
+                url = url + date;
+                url = url + ".txt";
+                if(date !== "Monthly summary" && date !== "Yearly summary") {
+                    window.location=url;
+                }
+            }
+        </script>
+    </head>
+    <body>
+        <header>
+            <div class="container-fix" >
+                <div class="h-left" >
+                <h1><i class="fa fa-cloud" ></i> Dolores, Alicante, Spain</h1>
+                <p>38&deg; 09.06' N | 000&deg; 44.82' W | 10 meter | <a href="https://www.google.com/maps/?q=Dolores, Alicante, Spain" target="_blank" ><i class="fa fa-map-marker" ></i> Show on map</a></p>
+                <h2>Current Weather Conditions</h2>
+                <p><i class="fa fa-clock-o" ></i> Sat, 19/10/2019 16:01:22</p>
+                </div>
+                
+                <div class="h-right" >
+                    <table>
+                        <tr><td><b>Station:</b></td><td>109X</td></tr>
+                        <tr><td><b>Software:</b></td><td><a href="http://weewx.com/" target="_blank" >weewx v3.7.0</a></td></tr>
+                        <tr><td><b>Weewx uptime:</b></td><td>0 Days, 1 Hour, 22 Minutes</td></tr>
+                        <tr><td><b>Server uptime:</b></td><td>0 Days, 1 Hour, 22 Minutes</td></tr>
+                    </table>
+                </div>
+
+                <nav>
+                    <ul>
+                        <li class="active" ><a href="index.html" >Current</a></li>
+                        <li><a href="week.html" >Week</a></li>
+                        <li><a href="month.html" >Month</a></li>
+                        <li><a href="year.html" >Year</a></li>
+                        <li><a href="RSS/weewx_rss.xml" >RSS</a></li>
+                        <li><select name="noaaselect" onchange="openNoaaFile(value)">
+                                <option>Monthly summary</option>
+                                    <option value="2014-12">2014-12</option>
+                                    <option value="2015-01">2015-01</option>
+                                    <option value="2015-02">2015-02</option>
+                                    <option value="2015-03">2015-03</option>
+                                    <option value="2015-04">2015-04</option>
+                                    <option value="2015-05">2015-05</option>
+                                    <option value="2015-06">2015-06</option>
+                                    <option value="2015-07">2015-07</option>
+                                    <option value="2015-08">2015-08</option>
+                                    <option value="2015-09">2015-09</option>
+                                    <option value="2015-10">2015-10</option>
+                                    <option value="2015-11">2015-11</option>
+                                    <option value="2015-12">2015-12</option>
+                                    <option value="2016-01">2016-01</option>
+                                    <option value="2016-02">2016-02</option>
+                                    <option value="2016-03">2016-03</option>
+                                    <option value="2016-04">2016-04</option>
+                                    <option value="2016-05">2016-05</option>
+                                    <option value="2016-06">2016-06</option>
+                                    <option value="2016-07">2016-07</option>
+                                    <option value="2016-08">2016-08</option>
+                                    <option value="2016-09">2016-09</option>
+                                    <option value="2016-10">2016-10</option>
+                                    <option value="2016-11">2016-11</option>
+                                    <option value="2016-12">2016-12</option>
+                                    <option value="2017-01">2017-01</option>
+                                    <option value="2017-02">2017-02</option>
+                                    <option value="2017-03">2017-03</option>
+                                    <option value="2017-04">2017-04</option>
+                                    <option value="2017-05">2017-05</option>
+                                    <option value="2017-06">2017-06</option>
+                                    <option value="2017-07">2017-07</option>
+                                    <option value="2017-08">2017-08</option>
+                                    <option value="2017-09">2017-09</option>
+                                    <option value="2017-10">2017-10</option>
+                                    <option value="2017-11">2017-11</option>
+                                    <option value="2017-12">2017-12</option>
+                                    <option value="2018-01">2018-01</option>
+                                    <option value="2018-02">2018-02</option>
+                                    <option value="2018-03">2018-03</option>
+                                    <option value="2018-04">2018-04</option>
+                                    <option value="2018-05">2018-05</option>
+                                    <option value="2018-06">2018-06</option>
+                                    <option value="2018-07">2018-07</option>
+                                    <option value="2018-08">2018-08</option>
+                                    <option value="2018-09">2018-09</option>
+                                    <option value="2018-10">2018-10</option>
+                                    <option value="2018-11">2018-11</option>
+                                    <option value="2018-12">2018-12</option>
+                                    <option value="2019-01">2019-01</option>
+                                    <option value="2019-02">2019-02</option>
+                                    <option value="2019-03">2019-03</option>
+                                    <option value="2019-04">2019-04</option>
+                                    <option value="2019-05">2019-05</option>
+                                    <option value="2019-06">2019-06</option>
+                                    <option value="2019-07">2019-07</option>
+                                    <option value="2019-08">2019-08</option>
+                                    <option value="2019-09">2019-09</option>
+                                    <option value="2019-10">2019-10</option>
+                            </select></li>
+                        <li><select name="noaaselect" onchange="openNoaaFile(value)">
+                                <option>Yearly summary</option>
+                                    <option value="2014">2014</option>
+                                    <option value="2015">2015</option>
+                                    <option value="2016">2016</option>
+                                    <option value="2017">2017</option>
+                                    <option value="2018">2018</option>
+                                    <option value="2019">2019</option>
+                            </select></li>
+                    </ul>
+                </nav>
+            </div>
+        </header>
+        
+        <div class="main" >
+        <div class="container" >
+            
+            <div class="left" >
+                
+                <div class="card" >
+                    <h1><i class="fa fa-sun-o m-orange" ></i> Current Conditions</h1>
+                    <table class="tablespacer">
+                        <tr><td>Outside Temperature</td><td>27.4&#176;C</td></tr>
+                        <tr><td>Wind Chill</td><td>27.4&#176;C</td></tr>
+                        <tr><td>Heat Index</td><td>27.7&#176;C</td></tr>
+                        <tr><td>Dewpoint</td><td>15.4&#176;C</td></tr>
+                        <tr><td>Humidity</td><td>48%</td></tr>
+                        <tr><td>Barometer</td><td>1017 mbar</td></tr>
+                        <tr><td>Barometer Trend (3 Hours)</td><td>-3 mbar</td></tr>
+                        <tr><td>Wind</td><td>11 mph SE (135&#176;)</td></tr>
+                        <tr><td>Rain Rate</td><td>0.0 mm/h</td></tr>
+                        <tr><td>Inside Temperature</td><td>23.1&#176;C</td></tr>
+                    </table>
+                </div>
+
+                <div class="card" >
+                    <h1><i class="fa fa-moon-o m-grau" ></i> Since Midnight</h1>
+                    <table class="tablespacer">
+                        <tr><td>High Temperature</td><td>30.3&#176;C</td><td>13:01:21</td></tr>
+                        <tr><td>Low Temperature</td><td>11.3&#176;C</td><td>08:01:21</td></tr>
+                        <tr><td>High Heat Index</td><td>30.3&#176;C</td><td>13:01:21</td></tr>
+                        <tr><td>Low Wind Chill</td><td>11.3&#176;C</td><td>08:01:21</td></tr>
+                        <tr><td>High Dewpoint</td><td>16.0&#176;C</td><td>15:21:22</td></tr>
+                        <tr><td>Low Dewpoint</td><td>10.5&#176;C</td><td>08:01:21</td></tr>
+                        <tr><td>High Humidity</td><td>97%</td><td>08:51:21</td></tr>
+                        <tr><td>Low Humidity</td><td>35%</td><td>13:01:21</td></tr>
+                        <tr><td>High Barometer</td><td>1023 mbar</td><td>00:36:21</td></tr>
+                        <tr><td>Low Barometer</td><td>1017 mbar</td><td>15:46:21</td></tr>
+                        <tr><td>Today's Rain</td><td>0.0 mm</td><td></td></tr>
+                        <tr><td>High Rain Rate</td><td>0.0 mm/h</td><td>00:01:21</td></tr>
+                        <tr><td>High Wind</td><td>15 mph    N/A</td><td>16:01:22</td></tr>
+                        <tr><td>Average Wind</td><td>1 mph</td><td></td></tr>
+                        <tr><td>RMS Wind</td><td>2 mph</td><td></td></tr>
+                        <tr><td>Vector Average Speed</td><td>1 mph</td><td></td></tr>
+                        <tr><td>Vector Average Direction</td><td>171&#176;</td><td></td></tr>
+                        <tr><td>High Inside Temperature</td><td>23.2&#176;C</td><td>00:01:21</td></tr>
+                        <tr><td>Low Inside Temperature</td><td>22.5&#176;C</td><td>11:21:21</td></tr>
+                    </table>
+                </div>
+                
+                <div class="card" style="display: none;">                    
+                    <a href="http://www.dwd.de" target="_blank">
+                    <img src="http://meteox.com/meteox-maps.aspx?a=1&z=7&lat=38.151&lon=-0.747" alt="Radar" id="radar" class="space small" />
+                    </a>
+                    
+                    <h3>
+                        
+                        <a id="btn1" class="cpointer" >Image / Animation</a>
+                        <script>    
+                            function changeRadar() {
+                                if(document.getElementById("radar").src == "http://meteox.com/meteox-maps.aspx?a=1&z=7&lat=38.151&lon=-0.747") {
+                                    document.getElementById("radar").src = "http://meteox.com/meteox-maps.aspx?a=1&z=7&lat=38.151&lon=-0.747";
+                                } else {
+                                    document.getElementById("radar").src = "http://meteox.com/meteox-maps.aspx?a=1&z=7&lat=38.151&lon=-0.747";
+                                }
+                            }
+                            
+                            var el = document.getElementById('btn1');
+                            el.onclick = changeRadar;
+                        </script>
+                    
+                        | <a href="http://meteox.com/meteox-maps.aspx?a=1&z=7&lat=38.151&lon=-0.747" target="_blank" >Meteox Europe Radar</a>
+                    </h3>
+                    
+                </div>
+                
+                <div class="card" >
+                    <h1><i class="fa fa-bolt m-blue" ></i> Lightning map</h1>
+                   <div align="center"> 
+		   <a href="http://www.lightningmaps.org/realtime?lang=en" target="_blank">
+                    <img src="https://images.lightningmaps.org/blitzortung/europe/index.php?map=5&t=4956061" alt="Lightning Map" class="space small" style="width:300px;" />
+                    </a>
+			</div>
+                </div>
+                
+		<div class="card" >
+                    <h1>Radar map</h1>
+                <iframe id="external" src="http://meteox.com/freezoom/meteox-static-zoom.html?lat=38.151&lon=-0.747" style="width: inherit; height: 400px;" scrolling=no frameborder=no></iframe>
+		</div>
+
+            </div>
+            
+            <div class="right" >
+
+                <div class="card" >
+                    <h1><i class="fa fa-star-o m-rot" ></i> Almanac</h1>
+                    <table>
+                        <tr><td>Sunrise:</td><td>08:15:21</td></tr>
+                        <tr><td>Sunset:</td><td>19:20:40</td></tr>
+                        <tr><td>Moon Phase:</td><td>Waning gibbous<br/>(73% full)</td></tr>
+                    </table>
+                </div>
+                
+                <div class="card cc graphs" >
+                    <h1><i class="fa fa-line-chart m-gruen" ></i> Graphs</h1>
+                    
+                    <img src="daytempdew.png" alt="temperatures" />
+                    <img src="daytempchill.png" alt="heatchill" />
+                    <img src="dayrain.png" alt="rain" />
+                    <img src="daywind.png" alt="wind" />
+                    <img src="daybarometer.png" alt="barometer"/>
+                    <img src="daywinddir.png" alt="Hi Wind" />
+                    <img src="dayinside.png" alt="Inside" />
+                    <img src="daywindvec.png" alt="Wind Vector" />
+                    <img src="dayrx.png" alt="day rx percent"/>
+                </div>
+                
+            </div>
+        </div>
+        </div>
+        
+        <footer>
+            <div class="container-fix" >
+            All rights reserved. &copy; 2014 
+            Sven
+            &sdot; Design by <a href="http://blauesledersofa.de" >blaues Ledersofa</a>
+            &sdot; Powered by <a href="http://weewx.com/" target="_blank" >weewx</a>
+            </div>
+        </footer>
+
+	
+    </body>
+</html>
+

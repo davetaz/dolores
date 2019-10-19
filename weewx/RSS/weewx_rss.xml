@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<rss version="2.0" 
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+   <channel>
+      <title>Dolores, Alicante, Spain, Weather Conditions</title>
+      <link></link>
+      <description>Current conditions, and daily, monthly, and yearly summaries</description>
+      <language>en-us</language>
+      <pubDate>Sat, 19 Oct 2019 16:01:22 CEST</pubDate>
+
+      <lastBuildDate>Sat, 19 Oct 2019 16:01:22 CEST</lastBuildDate>
+      <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+      <generator>weewx 3.7.0</generator>
+      <ttl>5.000000 Minutes</ttl>
+      
+      <item>
+         <title>Weather Conditions at 10/19/19 16:01:22</title>
+         <link></link>
+         <description>
+           Outside temperature: 27.4&#176;C; 
+           Barometer: 1017 mbar; 
+           Wind: 11 mph from 135&#176;; 
+           Rain rate: 0.0 mm/h; 
+           Inside temperature: 23.1&#176;C
+         </description>
+         <pubDate>Sat, 19 Oct 2019 16:01:22 CEST</pubDate>
+	     <geo:lat>38.151</geo:lat>
+    	 <geo:long>-0.747</geo:long>
+ 		 <content:encoded><![CDATA[
+           <p>
+             Time:                10/19/19 16:01:22<br/>
+             Outside Temperature: 27.4&#176;C<br/>
+             Inside Temperature:  23.1&#176;C<br/>
+             Wind Chill:          27.4&#176;C<br/>
+             Heat Index:          27.7&#176;C<br/>
+             Dewpoint:            15.4&#176;C<br/>
+             Humidity:            48%<br/>
+             Barometer:           1017 mbar<br/>
+             Wind:                11 mph from 135&#176;<br/>
+             Rain Rate:           0.0 mm/h<br/>
+        </p>
+      ]]></content:encoded>
+      </item>
+
+      <item>
+         <title>Daily Weather Summary as of 10/19/19 16:01:22</title>
+         <link></link>
+         <description>
+	        Min outside temperature: 11.3&#176;C at 08:01:21;
+         	Max outside temperature: 30.3&#176;C at 13:01:21;
+	        Min inside temperature:  22.5&#176;C at 11:21:21;
+	        Max inside temperature:  23.2&#176;C at 00:01:21;
+	        Min barometer:           1017 mbar at 15:46:21;
+	        Max barometer:           1023 mbar at 00:36:21;
+            Max wind :               15 mph from    N/A at 16:01:22;
+            Rain today:              0.0 mm
+         </description>
+         <pubDate>Sat, 19 Oct 2019 16:01:22 CEST</pubDate>
+	     <geo:lat>38.151</geo:lat>
+    	 <geo:long>-0.747</geo:long>
+ 		 <content:encoded><![CDATA[
+           <p>
+             Day:                     19 Oct 2019<br/>
+	         Min Outside Temperature: 11.3&#176;C at 08:01:21<br/>
+	         Max Outside Temperature: 30.3&#176;C at 13:01:21<br/>
+	         Min Inside Temperature:  22.5&#176;C at 11:21:21<br/>
+	         Max Inside Temperature:  23.2&#176;C at 00:01:21<br/>
+	         Min Barometer:           1017 mbar at 15:46:21<br/>
+	         Max Barometer:           1023 mbar at 00:36:21<br/>
+             Max Wind :               15 mph from    N/A at 16:01:22<br/>
+             Rain today:              0.0 mm<br/>
+        </p>
+      ]]></content:encoded>
+      </item>
+
+      <item>
+         <title>Monthly Weather Summary as of 10/19/19 16:01:22</title>
+         <link>/month.html</link>
+         <description>
+	        Min outside temperature: 8.4&#176;C at 10/16/19 07:54:21;
+         	Max outside temperature: 33.3&#176;C at 10/07/19 13:04:20;
+	        Min inside temperature:  22.2&#176;C at 10/17/19 12:36:21;
+	        Max inside temperature:  26.2&#176;C at 10/05/19 18:44:20;
+	        Min barometer:           1017 mbar at 10/19/19 15:46:21;
+	        Max barometer:           1031 mbar at 10/11/19 11:09:21;
+            Max wind :               20 mph from    N/A at 10/15/19 09:59:21;
+            Rain total for month:    0.0 mm
+         </description>
+         <pubDate>Sat, 19 Oct 2019 16:01:22 CEST</pubDate>
+ 		 <content:encoded><![CDATA[
+           <p>
+             Month:                   October 2019<br/>
+	         Max Outside Temperature: 33.3&#176;C at 10/07/19 13:04:20<br/>
+	         Min Outside Temperature: 8.4&#176;C at 10/16/19 07:54:21<br/>
+	         Max Inside Temperature:  26.2&#176;C at 10/05/19 18:44:20<br/>
+	         Min Inside Temperature:  22.2&#176;C at 10/17/19 12:36:21<br/>
+	         Min Barometer:           1017 mbar at 10/19/19 15:46:21<br/>
+	         Max Barometer:           1031 mbar at 10/11/19 11:09:21<br/>
+             Max Wind :               20 mph from    N/A at 10/15/19 09:59:21<br/>
+             Rain total for month:    0.0 mm<br/>
+        </p>
+      ]]></content:encoded>
+      </item>
+
+      <item>
+         <title>Yearly Weather Summary as of 10/19/19 16:01:22</title>
+         <link>/year.html</link>
+         <description>
+	        Min outside temperature: -2.7&#176;C at 01/11/19 07:17:43;
+         	Max outside temperature: 41.6&#176;C at 08/10/19 12:11:54;
+	        Min inside temperature:  14.5&#176;C at 01/13/19 07:47:43;
+	        Max inside temperature:  31.1&#176;C at 08/10/19 18:59:45;
+	        Min barometer:           1004 mbar at 02/01/19 13:47:36;
+	        Max barometer:           1044 mbar at 02/25/19 08:04:21;
+            Max wind :               32 mph from    N/A at 02/03/19 00:22:36;
+            Rain total for year:     147.0 mm
+         </description>
+         <pubDate>Sat, 19 Oct 2019 16:01:22 CEST</pubDate>
+ 		 <content:encoded><![CDATA[
+           <p>
+             Year:                    2019<br/>
+	         Max Outside Temperature: 41.6&#176;C at 08/10/19 12:11:54<br/>
+	         Min Outside Temperature: -2.7&#176;C at 01/11/19 07:17:43<br/>
+	         Max Inside Temperature:  31.1&#176;C at 08/10/19 18:59:45<br/>
+	         Min Inside Temperature:  14.5&#176;C at 01/13/19 07:47:43<br/>
+	         Min Barometer:           1004 mbar at 02/01/19 13:47:36<br/>
+	         Max Barometer:           1044 mbar at 02/25/19 08:04:21<br/>
+             Max Wind :               32 mph from    N/A at 02/03/19 00:22:36<br/>
+             Rain total for year:     147.0 mm<br/>
+        </p>
+      ]]></content:encoded>
+      </item>
+
+   </channel>
+</rss>
+
