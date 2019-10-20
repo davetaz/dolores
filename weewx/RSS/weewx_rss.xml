@@ -7,34 +7,34 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Sun, 20 Oct 2019 03:20:21 CEST</pubDate>
+      <pubDate>Sun, 20 Oct 2019 03:25:20 CEST</pubDate>
 
-      <lastBuildDate>Sun, 20 Oct 2019 03:20:21 CEST</lastBuildDate>
+      <lastBuildDate>Sun, 20 Oct 2019 03:25:20 CEST</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 3.7.0</generator>
-      <ttl>5.000000 Minutes</ttl>
+      <ttl>6.000000 Minutes</ttl>
       
       <item>
-         <title>Weather Conditions at 10/20/19 03:20:21</title>
+         <title>Weather Conditions at 10/20/19 03:25:20</title>
          <link></link>
          <description>
-           Outside temperature: 15.3&#176;C; 
+           Outside temperature: 15.1&#176;C; 
            Barometer: 1016 mbar; 
            Wind: 0 mph from    N/A; 
            Rain rate: 0.0 mm/h; 
            Inside temperature: 23.5&#176;C
          </description>
-         <pubDate>Sun, 20 Oct 2019 03:20:21 CEST</pubDate>
+         <pubDate>Sun, 20 Oct 2019 03:25:20 CEST</pubDate>
 	     <geo:lat>38.151</geo:lat>
     	 <geo:long>-0.747</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                10/20/19 03:20:21<br/>
-             Outside Temperature: 15.3&#176;C<br/>
+             Time:                10/20/19 03:25:20<br/>
+             Outside Temperature: 15.1&#176;C<br/>
              Inside Temperature:  23.5&#176;C<br/>
-             Wind Chill:          15.3&#176;C<br/>
-             Heat Index:          15.3&#176;C<br/>
-             Dewpoint:            15.1&#176;C<br/>
+             Wind Chill:          15.1&#176;C<br/>
+             Heat Index:          15.1&#176;C<br/>
+             Dewpoint:            14.9&#176;C<br/>
              Humidity:            99%<br/>
              Barometer:           1016 mbar<br/>
              Wind:                0 mph from    N/A<br/>
@@ -44,10 +44,10 @@
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 10/20/19 03:20:21</title>
+         <title>Daily Weather Summary as of 10/20/19 03:25:20</title>
          <link></link>
          <description>
-	        Min outside temperature: 15.3&#176;C at 03:20:21;
+	        Min outside temperature: 15.1&#176;C at 03:25:20;
          	Max outside temperature: 17.2&#176;C at 00:00:21;
 	        Min inside temperature:  23.5&#176;C at 00:05:21;
 	        Max inside temperature:  23.6&#176;C at 00:00:21;
@@ -56,13 +56,13 @@
             Max wind :               0 mph from    N/A at 00:00:21;
             Rain today:              0.0 mm
          </description>
-         <pubDate>Sun, 20 Oct 2019 03:20:21 CEST</pubDate>
+         <pubDate>Sun, 20 Oct 2019 03:25:20 CEST</pubDate>
 	     <geo:lat>38.151</geo:lat>
     	 <geo:long>-0.747</geo:long>
  		 <content:encoded><![CDATA[
            <p>
              Day:                     20 Oct 2019<br/>
-	         Min Outside Temperature: 15.3&#176;C at 03:20:21<br/>
+	         Min Outside Temperature: 15.1&#176;C at 03:25:20<br/>
 	         Max Outside Temperature: 17.2&#176;C at 00:00:21<br/>
 	         Min Inside Temperature:  23.5&#176;C at 00:05:21<br/>
 	         Max Inside Temperature:  23.6&#176;C at 00:00:21<br/>
@@ -75,7 +75,7 @@
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 10/20/19 03:20:21</title>
+         <title>Monthly Weather Summary as of 10/20/19 03:25:20</title>
          <link>/month.html</link>
          <description>
 	        Min outside temperature: 8.4&#176;C at 10/16/19 07:54:21;
@@ -87,7 +87,7 @@
             Max wind :               20 mph from    N/A at 10/15/19 09:59:21;
             Rain total for month:    0.0 mm
          </description>
-         <pubDate>Sun, 20 Oct 2019 03:20:21 CEST</pubDate>
+         <pubDate>Sun, 20 Oct 2019 03:25:20 CEST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   October 2019<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 10/20/19 03:20:21</title>
+         <title>Yearly Weather Summary as of 10/20/19 03:25:20</title>
          <link>/year.html</link>
          <description>
 	        Min outside temperature: -2.7&#176;C at 01/11/19 07:17:43;
@@ -116,7 +116,7 @@
             Max wind :               32 mph from    N/A at 02/03/19 00:22:36;
             Rain total for year:     147.0 mm
          </description>
-         <pubDate>Sun, 20 Oct 2019 03:20:21 CEST</pubDate>
+         <pubDate>Sun, 20 Oct 2019 03:25:20 CEST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2019<br/>
