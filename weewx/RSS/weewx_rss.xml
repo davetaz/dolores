@@ -7,15 +7,15 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Sun, 20 Oct 2019 02:50:21 CEST</pubDate>
+      <pubDate>Sun, 20 Oct 2019 02:55:21 CEST</pubDate>
 
-      <lastBuildDate>Sun, 20 Oct 2019 02:50:21 CEST</lastBuildDate>
+      <lastBuildDate>Sun, 20 Oct 2019 02:55:21 CEST</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 3.7.0</generator>
       <ttl>5.000000 Minutes</ttl>
       
       <item>
-         <title>Weather Conditions at 10/20/19 02:50:21</title>
+         <title>Weather Conditions at 10/20/19 02:55:21</title>
          <link></link>
          <description>
            Outside temperature: 15.5&#176;C; 
@@ -24,18 +24,18 @@
            Rain rate: 0.0 mm/h; 
            Inside temperature: 23.5&#176;C
          </description>
-         <pubDate>Sun, 20 Oct 2019 02:50:21 CEST</pubDate>
+         <pubDate>Sun, 20 Oct 2019 02:55:21 CEST</pubDate>
 	     <geo:lat>38.151</geo:lat>
     	 <geo:long>-0.747</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                10/20/19 02:50:21<br/>
+             Time:                10/20/19 02:55:21<br/>
              Outside Temperature: 15.5&#176;C<br/>
              Inside Temperature:  23.5&#176;C<br/>
              Wind Chill:          15.5&#176;C<br/>
              Heat Index:          15.5&#176;C<br/>
-             Dewpoint:            15.2&#176;C<br/>
-             Humidity:            98%<br/>
+             Dewpoint:            15.3&#176;C<br/>
+             Humidity:            99%<br/>
              Barometer:           1016 mbar<br/>
              Wind:                0 mph from    N/A<br/>
              Rain Rate:           0.0 mm/h<br/>
@@ -44,19 +44,19 @@
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 10/20/19 02:50:21</title>
+         <title>Daily Weather Summary as of 10/20/19 02:55:21</title>
          <link></link>
          <description>
 	        Min outside temperature: 15.5&#176;C at 02:50:21;
          	Max outside temperature: 17.2&#176;C at 00:00:21;
 	        Min inside temperature:  23.5&#176;C at 00:05:21;
 	        Max inside temperature:  23.6&#176;C at 00:00:21;
-	        Min barometer:           1016 mbar at 02:30:21;
+	        Min barometer:           1016 mbar at 02:55:21;
 	        Max barometer:           1016 mbar at 00:50:21;
             Max wind :               0 mph from    N/A at 00:00:21;
             Rain today:              0.0 mm
          </description>
-         <pubDate>Sun, 20 Oct 2019 02:50:21 CEST</pubDate>
+         <pubDate>Sun, 20 Oct 2019 02:55:21 CEST</pubDate>
 	     <geo:lat>38.151</geo:lat>
     	 <geo:long>-0.747</geo:long>
  		 <content:encoded><![CDATA[
@@ -66,7 +66,7 @@
 	         Max Outside Temperature: 17.2&#176;C at 00:00:21<br/>
 	         Min Inside Temperature:  23.5&#176;C at 00:05:21<br/>
 	         Max Inside Temperature:  23.6&#176;C at 00:00:21<br/>
-	         Min Barometer:           1016 mbar at 02:30:21<br/>
+	         Min Barometer:           1016 mbar at 02:55:21<br/>
 	         Max Barometer:           1016 mbar at 00:50:21<br/>
              Max Wind :               0 mph from    N/A at 00:00:21<br/>
              Rain today:              0.0 mm<br/>
@@ -75,19 +75,19 @@
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 10/20/19 02:50:21</title>
+         <title>Monthly Weather Summary as of 10/20/19 02:55:21</title>
          <link>/month.html</link>
          <description>
 	        Min outside temperature: 8.4&#176;C at 10/16/19 07:54:21;
          	Max outside temperature: 33.3&#176;C at 10/07/19 13:04:20;
 	        Min inside temperature:  22.2&#176;C at 10/17/19 12:36:21;
 	        Max inside temperature:  26.2&#176;C at 10/05/19 18:44:20;
-	        Min barometer:           1016 mbar at 10/20/19 02:30:21;
+	        Min barometer:           1016 mbar at 10/20/19 02:55:21;
 	        Max barometer:           1031 mbar at 10/11/19 11:09:21;
             Max wind :               20 mph from    N/A at 10/15/19 09:59:21;
             Rain total for month:    0.0 mm
          </description>
-         <pubDate>Sun, 20 Oct 2019 02:50:21 CEST</pubDate>
+         <pubDate>Sun, 20 Oct 2019 02:55:21 CEST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   October 2019<br/>
@@ -95,7 +95,7 @@
 	         Min Outside Temperature: 8.4&#176;C at 10/16/19 07:54:21<br/>
 	         Max Inside Temperature:  26.2&#176;C at 10/05/19 18:44:20<br/>
 	         Min Inside Temperature:  22.2&#176;C at 10/17/19 12:36:21<br/>
-	         Min Barometer:           1016 mbar at 10/20/19 02:30:21<br/>
+	         Min Barometer:           1016 mbar at 10/20/19 02:55:21<br/>
 	         Max Barometer:           1031 mbar at 10/11/19 11:09:21<br/>
              Max Wind :               20 mph from    N/A at 10/15/19 09:59:21<br/>
              Rain total for month:    0.0 mm<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 10/20/19 02:50:21</title>
+         <title>Yearly Weather Summary as of 10/20/19 02:55:21</title>
          <link>/year.html</link>
          <description>
 	        Min outside temperature: -2.7&#176;C at 01/11/19 07:17:43;
@@ -116,7 +116,7 @@
             Max wind :               32 mph from    N/A at 02/03/19 00:22:36;
             Rain total for year:     147.0 mm
          </description>
-         <pubDate>Sun, 20 Oct 2019 02:50:21 CEST</pubDate>
+         <pubDate>Sun, 20 Oct 2019 02:55:21 CEST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2019<br/>
