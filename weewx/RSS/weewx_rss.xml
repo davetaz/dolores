@@ -7,56 +7,56 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Tue, 22 Oct 2019 04:15:21 CEST</pubDate>
+      <pubDate>Tue, 22 Oct 2019 04:20:21 CEST</pubDate>
 
-      <lastBuildDate>Tue, 22 Oct 2019 04:15:21 CEST</lastBuildDate>
+      <lastBuildDate>Tue, 22 Oct 2019 04:20:21 CEST</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 3.7.0</generator>
       <ttl>5.000000 Minutes</ttl>
       
       <item>
-         <title>Weather Conditions at 10/22/19 04:15:21</title>
+         <title>Weather Conditions at 10/22/19 04:20:21</title>
          <link></link>
          <description>
            Outside temperature: 13.7&#176;C; 
            Barometer: 1023 mbar; 
-           Wind: 2 mph from 0&#176;; 
-           Rain rate: 6.0 mm/h; 
-           Inside temperature: 21.4&#176;C
+           Wind: 2 mph from 45&#176;; 
+           Rain rate: 4.8 mm/h; 
+           Inside temperature: 21.3&#176;C
          </description>
-         <pubDate>Tue, 22 Oct 2019 04:15:21 CEST</pubDate>
+         <pubDate>Tue, 22 Oct 2019 04:20:21 CEST</pubDate>
 	     <geo:lat>38.151</geo:lat>
     	 <geo:long>-0.747</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                10/22/19 04:15:21<br/>
+             Time:                10/22/19 04:20:21<br/>
              Outside Temperature: 13.7&#176;C<br/>
-             Inside Temperature:  21.4&#176;C<br/>
+             Inside Temperature:  21.3&#176;C<br/>
              Wind Chill:          13.7&#176;C<br/>
              Heat Index:          13.7&#176;C<br/>
              Dewpoint:            13.5&#176;C<br/>
              Humidity:            99%<br/>
              Barometer:           1023 mbar<br/>
-             Wind:                2 mph from 0&#176;<br/>
-             Rain Rate:           6.0 mm/h<br/>
+             Wind:                2 mph from 45&#176;<br/>
+             Rain Rate:           4.8 mm/h<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 10/22/19 04:15:21</title>
+         <title>Daily Weather Summary as of 10/22/19 04:20:21</title>
          <link></link>
          <description>
 	        Min outside temperature: 13.7&#176;C at 04:15:21;
          	Max outside temperature: 15.5&#176;C at 01:20:21;
-	        Min inside temperature:  21.4&#176;C at 03:05:21;
+	        Min inside temperature:  21.3&#176;C at 04:20:21;
 	        Max inside temperature:  21.6&#176;C at 00:00:21;
 	        Min barometer:           1023 mbar at 03:40:21;
 	        Max barometer:           1026 mbar at 00:00:21;
             Max wind :               11 mph from    N/A at 03:10:21;
-            Rain today:              5.7 mm
+            Rain today:              6.0 mm
          </description>
-         <pubDate>Tue, 22 Oct 2019 04:15:21 CEST</pubDate>
+         <pubDate>Tue, 22 Oct 2019 04:20:21 CEST</pubDate>
 	     <geo:lat>38.151</geo:lat>
     	 <geo:long>-0.747</geo:long>
  		 <content:encoded><![CDATA[
@@ -64,18 +64,18 @@
              Day:                     22 Oct 2019<br/>
 	         Min Outside Temperature: 13.7&#176;C at 04:15:21<br/>
 	         Max Outside Temperature: 15.5&#176;C at 01:20:21<br/>
-	         Min Inside Temperature:  21.4&#176;C at 03:05:21<br/>
+	         Min Inside Temperature:  21.3&#176;C at 04:20:21<br/>
 	         Max Inside Temperature:  21.6&#176;C at 00:00:21<br/>
 	         Min Barometer:           1023 mbar at 03:40:21<br/>
 	         Max Barometer:           1026 mbar at 00:00:21<br/>
              Max Wind :               11 mph from    N/A at 03:10:21<br/>
-             Rain today:              5.7 mm<br/>
+             Rain today:              6.0 mm<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 10/22/19 04:15:21</title>
+         <title>Monthly Weather Summary as of 10/22/19 04:20:21</title>
          <link>/month.html</link>
          <description>
 	        Min outside temperature: -22.4&#176;C at 10/20/19 04:47:21;
@@ -85,9 +85,9 @@
 	        Min barometer:           1015 mbar at 10/20/19 04:31:20;
 	        Max barometer:           1031 mbar at 10/11/19 11:09:21;
             Max wind :               20 mph from    N/A at 10/15/19 09:59:21;
-            Rain total for month:    6.3 mm
+            Rain total for month:    6.6 mm
          </description>
-         <pubDate>Tue, 22 Oct 2019 04:15:21 CEST</pubDate>
+         <pubDate>Tue, 22 Oct 2019 04:20:21 CEST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   October 2019<br/>
@@ -98,13 +98,13 @@
 	         Min Barometer:           1015 mbar at 10/20/19 04:31:20<br/>
 	         Max Barometer:           1031 mbar at 10/11/19 11:09:21<br/>
              Max Wind :               20 mph from    N/A at 10/15/19 09:59:21<br/>
-             Rain total for month:    6.3 mm<br/>
+             Rain total for month:    6.6 mm<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 10/22/19 04:15:21</title>
+         <title>Yearly Weather Summary as of 10/22/19 04:20:21</title>
          <link>/year.html</link>
          <description>
 	        Min outside temperature: -22.4&#176;C at 10/20/19 04:47:21;
@@ -114,9 +114,9 @@
 	        Min barometer:           1004 mbar at 02/01/19 13:47:36;
 	        Max barometer:           1044 mbar at 02/25/19 08:04:21;
             Max wind :               32 mph from    N/A at 02/03/19 00:22:36;
-            Rain total for year:     153.3 mm
+            Rain total for year:     153.6 mm
          </description>
-         <pubDate>Tue, 22 Oct 2019 04:15:21 CEST</pubDate>
+         <pubDate>Tue, 22 Oct 2019 04:20:21 CEST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2019<br/>
@@ -127,7 +127,7 @@
 	         Min Barometer:           1004 mbar at 02/01/19 13:47:36<br/>
 	         Max Barometer:           1044 mbar at 02/25/19 08:04:21<br/>
              Max Wind :               32 mph from    N/A at 02/03/19 00:22:36<br/>
-             Rain total for year:     153.3 mm<br/>
+             Rain total for year:     153.6 mm<br/>
         </p>
       ]]></content:encoded>
       </item>
