@@ -7,48 +7,48 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Sat, 26 Oct 2019 11:52:20 CEST</pubDate>
+      <pubDate>Sat, 26 Oct 2019 11:57:20 CEST</pubDate>
 
-      <lastBuildDate>Sat, 26 Oct 2019 11:52:20 CEST</lastBuildDate>
+      <lastBuildDate>Sat, 26 Oct 2019 11:57:20 CEST</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 3.7.0</generator>
-      <ttl>5.000000 Minutes</ttl>
+      <ttl>6.000000 Minutes</ttl>
       
       <item>
-         <title>Weather Conditions at 10/26/19 11:52:20</title>
+         <title>Weather Conditions at 10/26/19 11:57:20</title>
          <link></link>
          <description>
-           Outside temperature: 25.2&#176;C; 
+           Outside temperature: 25.3&#176;C; 
            Barometer: 1031 mbar; 
-           Wind: 0 mph from    N/A; 
+           Wind: 1 mph from 180&#176;; 
            Rain rate: 0.0 mm/h; 
            Inside temperature: 20.7&#176;C
          </description>
-         <pubDate>Sat, 26 Oct 2019 11:52:20 CEST</pubDate>
+         <pubDate>Sat, 26 Oct 2019 11:57:20 CEST</pubDate>
 	     <geo:lat>38.151</geo:lat>
     	 <geo:long>-0.747</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                10/26/19 11:52:20<br/>
-             Outside Temperature: 25.2&#176;C<br/>
+             Time:                10/26/19 11:57:20<br/>
+             Outside Temperature: 25.3&#176;C<br/>
              Inside Temperature:  20.7&#176;C<br/>
-             Wind Chill:          25.2&#176;C<br/>
-             Heat Index:          25.2&#176;C<br/>
-             Dewpoint:            14.9&#176;C<br/>
-             Humidity:            53%<br/>
+             Wind Chill:          25.3&#176;C<br/>
+             Heat Index:          25.3&#176;C<br/>
+             Dewpoint:            14.1&#176;C<br/>
+             Humidity:            50%<br/>
              Barometer:           1031 mbar<br/>
-             Wind:                0 mph from    N/A<br/>
+             Wind:                1 mph from 180&#176;<br/>
              Rain Rate:           0.0 mm/h<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 10/26/19 11:52:20</title>
+         <title>Daily Weather Summary as of 10/26/19 11:57:20</title>
          <link></link>
          <description>
 	        Min outside temperature: 9.5&#176;C at 08:14:20;
-         	Max outside temperature: 25.2&#176;C at 11:52:20;
+         	Max outside temperature: 25.3&#176;C at 11:57:20;
 	        Min inside temperature:  20.1&#176;C at 07:25:19;
 	        Max inside temperature:  21.2&#176;C at 00:03:20;
 	        Min barometer:           1030 mbar at 04:51:19;
@@ -56,14 +56,14 @@
             Max wind :               4 mph from    N/A at 09:55:20;
             Rain today:              0.0 mm
          </description>
-         <pubDate>Sat, 26 Oct 2019 11:52:20 CEST</pubDate>
+         <pubDate>Sat, 26 Oct 2019 11:57:20 CEST</pubDate>
 	     <geo:lat>38.151</geo:lat>
     	 <geo:long>-0.747</geo:long>
  		 <content:encoded><![CDATA[
            <p>
              Day:                     26 Oct 2019<br/>
 	         Min Outside Temperature: 9.5&#176;C at 08:14:20<br/>
-	         Max Outside Temperature: 25.2&#176;C at 11:52:20<br/>
+	         Max Outside Temperature: 25.3&#176;C at 11:57:20<br/>
 	         Min Inside Temperature:  20.1&#176;C at 07:25:19<br/>
 	         Max Inside Temperature:  21.2&#176;C at 00:03:20<br/>
 	         Min Barometer:           1030 mbar at 04:51:19<br/>
@@ -75,7 +75,7 @@
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 10/26/19 11:52:20</title>
+         <title>Monthly Weather Summary as of 10/26/19 11:57:20</title>
          <link>/month.html</link>
          <description>
 	        Min outside temperature: -22.4&#176;C at 10/20/19 04:47:21;
@@ -87,7 +87,7 @@
             Max wind :               21 mph from    N/A at 10/24/19 13:35:23;
             Rain total for month:    18.6 mm
          </description>
-         <pubDate>Sat, 26 Oct 2019 11:52:20 CEST</pubDate>
+         <pubDate>Sat, 26 Oct 2019 11:57:20 CEST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   October 2019<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 10/26/19 11:52:20</title>
+         <title>Yearly Weather Summary as of 10/26/19 11:57:20</title>
          <link>/year.html</link>
          <description>
 	        Min outside temperature: -22.4&#176;C at 10/20/19 04:47:21;
@@ -116,7 +116,7 @@
             Max wind :               32 mph from    N/A at 02/03/19 00:22:36;
             Rain total for year:     165.6 mm
          </description>
-         <pubDate>Sat, 26 Oct 2019 11:52:20 CEST</pubDate>
+         <pubDate>Sat, 26 Oct 2019 11:57:20 CEST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2019<br/>
