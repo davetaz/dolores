@@ -7,44 +7,44 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Wed, 30 Oct 2019 07:07:19 CET</pubDate>
+      <pubDate>Wed, 30 Oct 2019 07:12:19 CET</pubDate>
 
-      <lastBuildDate>Wed, 30 Oct 2019 07:07:19 CET</lastBuildDate>
+      <lastBuildDate>Wed, 30 Oct 2019 07:12:19 CET</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 3.7.0</generator>
       <ttl>5.000000 Minutes</ttl>
       
       <item>
-         <title>Weather Conditions at 10/30/19 07:07:19</title>
+         <title>Weather Conditions at 10/30/19 07:12:19</title>
          <link></link>
          <description>
-           Outside temperature: 13.6&#176;C; 
+           Outside temperature: 13.5&#176;C; 
            Barometer: 1029 mbar; 
-           Wind: 0 mph from    N/A; 
+           Wind: 2 mph from    N/A; 
            Rain rate: 0.0 mm/h; 
            Inside temperature: 21.4&#176;C
          </description>
-         <pubDate>Wed, 30 Oct 2019 07:07:19 CET</pubDate>
+         <pubDate>Wed, 30 Oct 2019 07:12:19 CET</pubDate>
 	     <geo:lat>38.151</geo:lat>
     	 <geo:long>-0.747</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                10/30/19 07:07:19<br/>
-             Outside Temperature: 13.6&#176;C<br/>
+             Time:                10/30/19 07:12:19<br/>
+             Outside Temperature: 13.5&#176;C<br/>
              Inside Temperature:  21.4&#176;C<br/>
-             Wind Chill:          13.6&#176;C<br/>
-             Heat Index:          13.6&#176;C<br/>
-             Dewpoint:            13.0&#176;C<br/>
+             Wind Chill:          13.5&#176;C<br/>
+             Heat Index:          13.5&#176;C<br/>
+             Dewpoint:            12.9&#176;C<br/>
              Humidity:            96%<br/>
              Barometer:           1029 mbar<br/>
-             Wind:                0 mph from    N/A<br/>
+             Wind:                2 mph from    N/A<br/>
              Rain Rate:           0.0 mm/h<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 10/30/19 07:07:19</title>
+         <title>Daily Weather Summary as of 10/30/19 07:12:19</title>
          <link></link>
          <description>
 	        Min outside temperature: 13.4&#176;C at 05:22:19;
@@ -56,7 +56,7 @@
             Max wind :               3 mph from    N/A at 01:12:19;
             Rain today:              0.0 mm
          </description>
-         <pubDate>Wed, 30 Oct 2019 07:07:19 CET</pubDate>
+         <pubDate>Wed, 30 Oct 2019 07:12:19 CET</pubDate>
 	     <geo:lat>38.151</geo:lat>
     	 <geo:long>-0.747</geo:long>
  		 <content:encoded><![CDATA[
@@ -75,7 +75,7 @@
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 10/30/19 07:07:19</title>
+         <title>Monthly Weather Summary as of 10/30/19 07:12:19</title>
          <link>/month.html</link>
          <description>
 	        Min outside temperature: -22.4&#176;C at 10/20/19 04:47:21;
@@ -87,7 +87,7 @@
             Max wind :               21 mph from    N/A at 10/24/19 13:35:23;
             Rain total for month:    18.6 mm
          </description>
-         <pubDate>Wed, 30 Oct 2019 07:07:19 CET</pubDate>
+         <pubDate>Wed, 30 Oct 2019 07:12:19 CET</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   October 2019<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 10/30/19 07:07:19</title>
+         <title>Yearly Weather Summary as of 10/30/19 07:12:19</title>
          <link>/year.html</link>
          <description>
 	        Min outside temperature: -22.4&#176;C at 10/20/19 04:47:21;
@@ -116,7 +116,7 @@
             Max wind :               32 mph from    N/A at 02/03/19 00:22:36;
             Rain total for year:     165.6 mm
          </description>
-         <pubDate>Wed, 30 Oct 2019 07:07:19 CET</pubDate>
+         <pubDate>Wed, 30 Oct 2019 07:12:19 CET</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2019<br/>
