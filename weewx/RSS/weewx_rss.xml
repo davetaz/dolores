@@ -7,56 +7,56 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Sat, 02 Nov 2019 10:57:18 CET</pubDate>
+      <pubDate>Sat, 02 Nov 2019 11:02:18 CET</pubDate>
 
-      <lastBuildDate>Sat, 02 Nov 2019 10:57:18 CET</lastBuildDate>
+      <lastBuildDate>Sat, 02 Nov 2019 11:02:18 CET</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 3.7.0</generator>
       <ttl>5.000000 Minutes</ttl>
       
       <item>
-         <title>Weather Conditions at 11/02/19 10:57:18</title>
+         <title>Weather Conditions at 11/02/19 11:02:18</title>
          <link></link>
          <description>
-           Outside temperature: 24.3&#176;C; 
+           Outside temperature: 24.2&#176;C; 
            Barometer: 1021 mbar; 
-           Wind: 2 mph from 315&#176;; 
+           Wind: 4 mph from 225&#176;; 
            Rain rate: 0.0 mm/h; 
            Inside temperature: 24.0&#176;C
          </description>
-         <pubDate>Sat, 02 Nov 2019 10:57:18 CET</pubDate>
+         <pubDate>Sat, 02 Nov 2019 11:02:18 CET</pubDate>
 	     <geo:lat>38.151</geo:lat>
     	 <geo:long>-0.747</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                11/02/19 10:57:18<br/>
-             Outside Temperature: 24.3&#176;C<br/>
+             Time:                11/02/19 11:02:18<br/>
+             Outside Temperature: 24.2&#176;C<br/>
              Inside Temperature:  24.0&#176;C<br/>
-             Wind Chill:          24.3&#176;C<br/>
-             Heat Index:          24.3&#176;C<br/>
-             Dewpoint:            13.5&#176;C<br/>
+             Wind Chill:          24.2&#176;C<br/>
+             Heat Index:          24.2&#176;C<br/>
+             Dewpoint:            13.4&#176;C<br/>
              Humidity:            51%<br/>
              Barometer:           1021 mbar<br/>
-             Wind:                2 mph from 315&#176;<br/>
+             Wind:                4 mph from 225&#176;<br/>
              Rain Rate:           0.0 mm/h<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 11/02/19 10:57:18</title>
+         <title>Daily Weather Summary as of 11/02/19 11:02:18</title>
          <link></link>
          <description>
 	        Min outside temperature: 16.5&#176;C at 07:27:18;
          	Max outside temperature: 26.2&#176;C at 09:32:18;
 	        Min inside temperature:  23.6&#176;C at 06:52:18;
 	        Max inside temperature:  24.3&#176;C at 00:02:18;
-	        Min barometer:           1021 mbar at 09:22:18;
+	        Min barometer:           1021 mbar at 11:02:18;
 	        Max barometer:           1024 mbar at 00:02:18;
             Max wind :               8 mph from    N/A at 10:52:18;
             Rain today:              0.0 mm
          </description>
-         <pubDate>Sat, 02 Nov 2019 10:57:18 CET</pubDate>
+         <pubDate>Sat, 02 Nov 2019 11:02:18 CET</pubDate>
 	     <geo:lat>38.151</geo:lat>
     	 <geo:long>-0.747</geo:long>
  		 <content:encoded><![CDATA[
@@ -66,7 +66,7 @@
 	         Max Outside Temperature: 26.2&#176;C at 09:32:18<br/>
 	         Min Inside Temperature:  23.6&#176;C at 06:52:18<br/>
 	         Max Inside Temperature:  24.3&#176;C at 00:02:18<br/>
-	         Min Barometer:           1021 mbar at 09:22:18<br/>
+	         Min Barometer:           1021 mbar at 11:02:18<br/>
 	         Max Barometer:           1024 mbar at 00:02:18<br/>
              Max Wind :               8 mph from    N/A at 10:52:18<br/>
              Rain today:              0.0 mm<br/>
@@ -75,19 +75,19 @@
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 11/02/19 10:57:18</title>
+         <title>Monthly Weather Summary as of 11/02/19 11:02:18</title>
          <link>/month.html</link>
          <description>
 	        Min outside temperature: 16.5&#176;C at 11/02/19 07:27:18;
          	Max outside temperature: 29.9&#176;C at 11/01/19 14:42:18;
 	        Min inside temperature:  22.7&#176;C at 11/01/19 06:02:24;
 	        Max inside temperature:  24.6&#176;C at 11/01/19 19:37:18;
-	        Min barometer:           1021 mbar at 11/02/19 09:22:18;
+	        Min barometer:           1021 mbar at 11/02/19 11:02:18;
 	        Max barometer:           1030 mbar at 11/01/19 00:22:24;
             Max wind :               15 mph from    N/A at 11/01/19 12:47:24;
             Rain total for month:    0.0 mm
          </description>
-         <pubDate>Sat, 02 Nov 2019 10:57:18 CET</pubDate>
+         <pubDate>Sat, 02 Nov 2019 11:02:18 CET</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   November 2019<br/>
@@ -95,7 +95,7 @@
 	         Min Outside Temperature: 16.5&#176;C at 11/02/19 07:27:18<br/>
 	         Max Inside Temperature:  24.6&#176;C at 11/01/19 19:37:18<br/>
 	         Min Inside Temperature:  22.7&#176;C at 11/01/19 06:02:24<br/>
-	         Min Barometer:           1021 mbar at 11/02/19 09:22:18<br/>
+	         Min Barometer:           1021 mbar at 11/02/19 11:02:18<br/>
 	         Max Barometer:           1030 mbar at 11/01/19 00:22:24<br/>
              Max Wind :               15 mph from    N/A at 11/01/19 12:47:24<br/>
              Rain total for month:    0.0 mm<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 11/02/19 10:57:18</title>
+         <title>Yearly Weather Summary as of 11/02/19 11:02:18</title>
          <link>/year.html</link>
          <description>
 	        Min outside temperature: -22.4&#176;C at 10/20/19 04:47:21;
@@ -116,7 +116,7 @@
             Max wind :               32 mph from    N/A at 02/03/19 00:22:36;
             Rain total for year:     165.6 mm
          </description>
-         <pubDate>Sat, 02 Nov 2019 10:57:18 CET</pubDate>
+         <pubDate>Sat, 02 Nov 2019 11:02:18 CET</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2019<br/>
